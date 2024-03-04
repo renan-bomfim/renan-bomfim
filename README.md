@@ -19,7 +19,7 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafi
 
 ## 📫 Entre em contato comigo
 
-- E-mail: `renannixdorf@yahoo.com`
+- E-mail:  `renannixdorf@yahoo.com`
 - phone: [(11) 967829486](tel:+5511967829486)
 - LinkedIn: [renan-bomfim](https://www.linkedin.com/in/renan-bomfim-435a5a2b7/)
 
