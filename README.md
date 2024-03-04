@@ -14,7 +14,6 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafi
 
 - **Linguagens de programação**: JavaScript
 - **Frameworks/Bibliotecas**: ReactJS, TailwindCSS, Styled-Components, Redux, NextJS
-- **Banco de dados**: MySQL
 - **Outros**: Git, npm, Scrum, Kanban
 
 
