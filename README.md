@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Adoro resolver problemas e aprender coisas novas.
 
-- 🌱 Atualmente estou aprendendo TypeScript e Jest
+- 🌱 Atualmente estou aprendendo TypeScript
 - ☄️ Estou procurando colaborar em projetos open-source e hackathons
 - 📘 Cursando Analise e Desenvolvimento de Sistemas: [FAM](https://www.vemprafam.com.br/)
 - 💬 Pergunte-me sobre JavaScript, desenvolvimento web
@@ -13,7 +13,7 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafi
 ## 🛠️ Habilidades Técnicas
 
 - **Linguagens de programação**: JavaScript
-- **Frameworks/Bibliotecas**: ReactJS, TailwindCSS, Styled-Components, Redux, NextJS
+- **Frameworks/Bibliotecas**: ReactJS, TailwindCSS, Styled-Components, Redux.
 - **Outros**: Git, npm, Scrum, Kanban
 
 
