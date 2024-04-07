@@ -1,25 +1,24 @@
-# Olá, Mundo! 👋 Renan Bomfim
+# Hello, World! 👋 Renan Bomfim
 
-## 👨‍💻 Sobre mim
+## About me
 
-Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Adoro resolver problemas e aprender coisas novas.
+I am a developer passionate about technology and always in search of new challenges. I love solving problems and learning new things.
 
-- 🌱 Atualmente estou aprendendo TypeScript
-- ☄️ Estou procurando colaborar em projetos open-source e hackathons
-- 📘 Cursando Analise e Desenvolvimento de Sistemas: [FAM](https://www.vemprafam.com.br/)
-- 💬 Pergunte-me sobre JavaScript, desenvolvimento web
-- 📫 Como me alcançar: `renannixdorf@yahoo.com`
+- Currently learning TypeScript
+- Looking to collaborate on open-source projects and hackathons
+- Studying Systems Analysis and Development: [FAM](https://www.vemprafam.com.br/)
+- Ask me about JavaScript, web development
+- How to reach me: `renannixdorf@yahoo.com`
 
-## 🛠️ Habilidades Técnicas
+## Technical Skills
 
-- **Linguagens de programação**: JavaScript
-- **Frameworks/Bibliotecas**: ReactJS, TailwindCSS, Styled-Components, Redux.
-- **Outros**: Git, npm, Scrum, Kanban
+- **Programming languages**: JavaScript
+- **Frameworks/Libraries**: ReactJS, TailwindCSS, Styled-Components, Redux.
+- **Others**: Git, npm, Scrum, Kanban
 
+## Contact me
 
-## 📫 Entre em contato comigo
-
-- E-mail:  `renannixdorf@yahoo.com`
-- phone: [(11) 967829486](tel:+5511967829486)
+- Email:  `renannixdorf@yahoo.com`
+- Phone: [(11) 967829486](tel:+5511967829486)
 - LinkedIn: [renan-bomfim](https://www.linkedin.com/in/renan-bomfim-435a5a2b7/)
 
