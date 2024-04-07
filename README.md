@@ -3,6 +3,8 @@
 ## About me
 
 I am a developer passionate about technology and always in search of new challenges. I love solving problems and learning new things.
+My focus is on building a robust portfolio to showcase and enhance my technical and behavioral skills. As a differentiator, I always emphasize performance and scalability in my projects.
+Committed to staying up-to-date with the latest trends and technologies, networking is crucial for me as it opens new opportunities and helps me achieve specific career goals. These objectives guide my professional development.
 
 - Currently learning TypeScript
 - Looking to collaborate on open-source projects and hackathons
