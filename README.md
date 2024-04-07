@@ -20,6 +20,8 @@ Committed to staying up-to-date with the latest trends and technologies, network
 
 ## Contact me
 
+I'm always open to new opportunities and connections.
+
 - Email:  `renannixdorf@yahoo.com`
 - Phone: [(11) 967829486](tel:+5511967829486)
 - LinkedIn: [renan-bomfim](https://www.linkedin.com/in/renan-bomfim-435a5a2b7/)
